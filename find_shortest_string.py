@@ -1,3 +1,6 @@
+# Problem: Find the shortest string in a given list
+
+
 def get_shortest_string():
     countries = {"Egypt", "Spain", "Germany", "South Africa", "USA", "UK"}
     shortest = []
